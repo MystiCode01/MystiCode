@@ -1,0 +1,9 @@
+title: MystiCode
+email: contact@mysticode.com
+description: >-
+  MystiCode is your gateway to personalized numerology insights.
+baseurl: "" 
+url: "https://yourusername.github.io" 
+theme: jekyll-theme-dinky
+
+markdown: kramdown
